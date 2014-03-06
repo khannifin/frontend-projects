@@ -58,6 +58,8 @@ img {
   max-width: 100%;
   height: auto; }
 
+
+
 img {
   -ms-interpolation-mode: bicubic; }
 
@@ -85,6 +87,11 @@ img {
 
 .hide {
   display: none; }
+
+.shrink {
+  height: 50%;
+  width: 50%;
+}
 
 .antialiased {
   -webkit-font-smoothing: antialiased;
